@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Load the image
-image = cv2.imread('images/sample.jpg')  # Replace with your actual image file
+image = cv2.imread('images/0266554465.jpeg')  # Replace with your actual image file
 image_rgb = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)  # Convert to RGB format
 
 # Display the image
